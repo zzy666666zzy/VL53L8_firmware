@@ -1,0 +1,6 @@
+../Platform/platform.c:17:9:RdByte	40	static
+../Platform/platform.c:35:9:WrByte	24	static
+../Platform/platform.c:51:9:WrMulti	24	static
+../Platform/platform.c:63:9:RdMulti	40	static
+../Platform/platform.c:82:6:SwapBuffer	8	static
+../Platform/platform.c:101:9:WaitMs	8	static
